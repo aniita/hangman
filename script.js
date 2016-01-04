@@ -1,5 +1,3 @@
-// Code goes here
-
 // Pick a random word
 var words = [
   "JAVASCRIPT",
